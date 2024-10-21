@@ -22,3 +22,5 @@
 - **HTML**: To structure the virtual keyboard and layout.
 - **CSS**: For styling, animations, and key effects.
 - **JavaScript**: Handles game logic, key tracking, and animations.
+  You can go live and play the game here: https://codepen.io/Reddy-Aishwarya-V-21BCE3182/pen/oNKepjp. Enjoy!
+  
